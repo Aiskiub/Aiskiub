@@ -9,7 +9,8 @@ using namespace std;
 
 int main() {
     cout << "- ⚡ Quick bio: " << "👨‍💻 I'm a software developer in progress" << endl;
-    cout << "- 💻 I'm exploring some languages: " << "🖥️ From the classics like C++, C, and Java, to the lesser-known ones like Netlogo, MiniZinc, and Prolog." << endl;
+    cout << "- 💻 I'm exploring some languages: " << "🖥️ From the classics like C++, C, and Java,
+                            to the lesser-known ones like Netlogo, MiniZinc, and Prolog." << endl;
 
     return 0;
 }
