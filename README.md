@@ -12,17 +12,18 @@
 #include <iostream>
 #include <vector>
 #include <string>
+using namespace std;
 
 int main() {
-    std::vector<std::string> skills = {"C++", "C", "Java", "Netlogo", "MiniZinc", "Prolog"};
+    vector<string> skills = {"C++", "C", "Java", "Python", "JavaScript", "HTML5", "CSS", "Netlogo", "MiniZinc", "Prolog"};
     
-    std::cout << "🏕️ Adventurer's Name: Daniel López" << std::endl;
-    std::cout << "🎯 Current Quest: Conquering the peaks of Software Development" << std::endl;
-    std::cout << "🗺️ Explored Territories: ";
+    cout << "🏕️ Adventurer's Name: Daniel López" << endl;
+    cout << "🎯 Current Quest: Conquering the peaks of Software Development" << endl;
+    cout << "🗺️ Explored Territories: ";
     for (const auto& skill : skills) {
-        std::cout << skill << " ";
+        cout << skill << " ";
     }
-    std::cout << std::endl;
+    cout << endl;
     
     return 0;
 }
