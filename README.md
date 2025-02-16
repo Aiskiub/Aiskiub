@@ -1,9 +1,12 @@
-# 🌄 The Great Code Adventure of Daniel López 🏞️
+# Daniel López | Software Development
 
 <div align="center">
   <!-- <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Adventure" height="300" width="500"> -->
   <br>
-  <em>Exploring new horizons in the vast world of development</em>
+  <em><div id="header" align="center">
+  <img src="https://media.tenor.com/Q4tVC2cL_woAAAAM/noot-noot-apocalypse.gif" width="200"/>
+      </div>
+  </em> 
 </div>
 
 ## 🧭 Explorer's Journal
@@ -83,7 +86,7 @@ int main() {
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
-## 📡 Smoke Signals
+## 📡 Send me a message
 
 <div align="center">
   <a href="https://www.instagram.com/not._.dan1/">
