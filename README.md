@@ -4,33 +4,17 @@
   <!-- <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Adventure" height="300" width="500"> -->
   <br>
   <em><div id="header" align="center">
-  <img src="https://media.tenor.com/Q4tVC2cL_woAAAAM/noot-noot-apocalypse.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/79djON9nNhMAAAAd/0001.gif" width="200"/>
       </div>
   </em> 
 </div>
 
-## 🧭 Explorer's Journal
+## 🙋‍♂️ Sobre mí
 
-```cpp
-#include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
+Hola, soy **Daniel López**, desarrollador con interés en resolver problemas reales a través del software.  
+Me encanta aprender nuevas tecnologías y enfrentar desafíos complejos.
 
-int main() {
-    vector<string> skills = {"C++", "C", "Java", "Python", "JavaScript", "HTML5", "CSS", "Netlogo", "MiniZinc", "Prolog"};
-    
-    cout << "🏕️ Adventurer's Name: Daniel López" << endl;
-    cout << "🎯 Current Quest: Conquering the peaks of Software Development" << endl;
-    cout << "🗺️ Explored Territories: ";
-    for (const auto& skill : skills) {
-        cout << skill << " ";
-    }
-    cout << endl;
-    
-    return 0;
-}
-```
+
 ## 💻 Technologies
 
 <table>
