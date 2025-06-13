@@ -96,15 +96,6 @@ Me encanta aprender nuevas tecnologías y enfrentar desafíos complejos.
   <em>Adventurers who have passed through this camp</em>
 </div>
 
-## 🧗‍♂️ Adventure Companion
-
-<div align="center">
-  <a href="https://github.com/Midnightgb">
-    <img src="https://avatars.githubusercontent.com/u/103533210?v=4" alt="Midnightgb" height="50" width="50">
-  </a>
-  <br>
-  <em>Explore the trails blazed by my expedition partner</em>
-</div>
 
 ---
 
