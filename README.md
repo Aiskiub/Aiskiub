@@ -1,104 +1,69 @@
-# Daniel López | Software Development
+# 🚀 Daniel López | Software Developer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=10B981&width=500&lines=Building+Practical+Solutions+with+Code;Passionate+about+Learning+and+Improving;Let's+solve+real+world+problems)](https://git.io/typing-svg)
 
 <div align="center">
-  <!-- <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Adventure" height="300" width="500"> -->
-  <br>
-  <em><div id="header" align="center">
-  <img src="https://media1.tenor.com/m/79djON9nNhMAAAAd/0001.gif" width="200"/>
-      </div>
-  </em> 
+  <img src="https://media1.tenor.com/m/79djON9nNhMAAAAd/0001.gif" width="200" alt="Developer GIF">
 </div>
-
-## 🙋‍♂️ Sobre mí
-
-Hola, soy **Daniel López**, desarrollador con interés en resolver problemas reales a través del software.  
-Me encanta aprender nuevas tecnologías y enfrentar desafíos complejos.
-
-
-## 💻 Technologies
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#python">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#javascript">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>JS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Git 
-    </td>
-  </tr>
-</table>
-
-## 👨🏼‍💻 Skills
-
-<div align="center">
-
-### 🌟 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎭 Learning Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-### ☁️ Cloud & Data Bases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### 🛠️ Magical Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-## 📡 Send me a message
-
-<div align="center">
-  <a href="https://www.instagram.com/not._.dan1/">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/930/415/non_2x/instagram-logo-instagram-icon-transparent-free-png.png" alt="Instagram" height="50" width="50">
-  </a>
-  <br>
-  <em>Send a message </em>
-</div>
-
-## 📊 Map of Conquests
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiskiub&langs_count=6&theme=gruvbox&layout=compact" alt="Most Conquered Territories">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aiskiub&show_icons=true&theme=gruvbox" alt="Record of Feats">
-</div>
-
-## 🏞️ Visitors from Distant Lands
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Aiskiub/count.svg" alt="Visitor Counter">
-  <br>
-  <em>Adventurers who have passed through this camp</em>
-</div>
-
 
 ---
 
+## 🙋‍♂️ Sobre Mí
+
+¡Hola! Soy **Daniel López**, un desarrollador de software apasionado por resolver problemas reales a través de soluciones tecnológicas.  
+Siempre estoy en búsqueda de aprender nuevas herramientas y metodologías que mejoren la eficiencia y la calidad del código.
+
+- 💻 Amante del backend pero disfruto explorar el mundo frontend.
+- 🌱 Actualmente aprendiendo **FastAPI** y **Vue.js**.
+- 🚀 Apasionado por crear código limpio y escalable.
+- 📍 Basado en Colombia 🇨🇴.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🖥️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 💽 Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <em>End of today's log. Thanks for visiting my digital base camp!</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aiskiub&show_icons=true&theme=gruvbox&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiskiub&layout=compact&theme=gruvbox&hide_border=true" width="350"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aiskiub/Aiskiub/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aiskiub/Aiskiub/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aiskiub/Aiskiub/output/snake.svg" />
+</picture>
+
+## 🌍 Conéctate Conmigo
+
+<div align="center">
+  <a href="https://www.instagram.com/not._.dan1/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </div>
