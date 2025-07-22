@@ -19,8 +19,11 @@ I'm always eager to learn new tools and methodologies to improve code quality an
 - 📍 Colombia 🇨🇴.
 
 ---
+  ## 🛠️ Tech Stack
+<div align="center">
 
-## 🛠️ Tech Stack
+
+
 
 ### 💻 Frontend Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,7 +47,7 @@ I'm always eager to learn new tools and methodologies to improve code quality an
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 </div>
----
+
 
 ## 📈 GitHub Stats
 
@@ -53,7 +56,6 @@ I'm always eager to learn new tools and methodologies to improve code quality an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiskiub&layout=compact&theme=gruvbox&hide_border=true" width="350"/>
 </div>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -63,10 +65,13 @@ I'm always eager to learn new tools and methodologies to improve code quality an
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aiskiub/Aiskiub/output/snake.svg" />
 </picture>
 
-## 🌍 Connect With Me
+
+## 🌟 Let's Connect!
 
 <div align="center">
-  <a href="https://www.instagram.com/not._.dan1/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-l-9008542a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiskiub)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilq139@gmail.com)
+
 </div>
