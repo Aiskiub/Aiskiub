@@ -8,15 +8,15 @@
 
 ---
 
-## 🙋‍♂️ Sobre Mí
+## 🙋‍♂️ About Me
 
-¡Hola! Soy **Daniel López**, un desarrollador de software apasionado por resolver problemas reales a través de soluciones tecnológicas.  
-Siempre estoy en búsqueda de aprender nuevas herramientas y metodologías que mejoren la eficiencia y la calidad del código.
+Hi there! I'm **Daniel López**, a software developer passionate about solving real-world problems through technology.  
+I'm always eager to learn new tools and methodologies to improve code quality and efficiency.
 
-- 💻 Amante del backend pero disfruto explorar el mundo frontend.
-- 🌱 Actualmente aprendiendo **FastAPI** y **Vue.js**.
-- 🚀 Apasionado por crear código limpio y escalable.
-- 📍 Basado en Colombia 🇨🇴.
+- 💻 Backend enthusiast, but I enjoy exploring the frontend world too.
+- 🌱 Currently learning **FastAPI** and **Vue.js**.
+- 🚀 Passionate about writing clean and scalable code.
+- 📍 Based in Colombia 🇨🇴.
 
 ---
 
@@ -60,7 +60,7 @@ Siempre estoy en búsqueda de aprender nuevas herramientas y metodologías que m
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aiskiub/Aiskiub/output/snake.svg" />
 </picture>
 
-## 🌍 Conéctate Conmigo
+## 🌍 Connect With Me
 
 <div align="center">
   <a href="https://www.instagram.com/not._.dan1/">
