@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # ejecuta cada día a medianoche
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,11 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg
+         
+          color_snake: '#22c55e' # verde
+          color_dots: '#6366f1,#e11d48,#facc15,#10b981,#3b82f6' # puntos arcoiris
+          svg_out_path: dist/snake.svg
+          svg_out_path_dark: dist/snake-dark.svg
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v4
