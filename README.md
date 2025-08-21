@@ -12,11 +12,11 @@
 
 Hi there! I'm **Daniel López**, a software developer passionate about solving real-world problems through technology.  
 I'm always eager to learn new tools and methodologies to improve code quality and efficiency.
+You can see more about me and my projects in my web repository https://danovax.tech/
 
 - 💻 Backend enthusiast, but I enjoy exploring the frontend world too.
-- 🌱 Currently learning **FastAPI** and **Vue.js**.
 - 🚀 Passionate about writing clean and scalable code.
-- 📍 Colombia 🇨🇴.
+- 📍 Pereira, Colombia 🇨🇴.
 
 ---
   ## 🛠️ Tech Stack
@@ -70,6 +70,7 @@ I'm always eager to learn new tools and methodologies to improve code quality an
 
 <div align="center">
 
+V
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-l-9008542a8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilq139@gmail.com)
 
