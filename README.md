@@ -70,7 +70,6 @@ You can see more about me and my projects in my web repository https://danovax.t
 
 <div align="center">
 
-V
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-l-9008542a8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilq139@gmail.com)
 
