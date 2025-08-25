@@ -1,4 +1,4 @@
-# 🚀 Daniel López | Software Developer
+# Daniel López | Software Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=10B981&width=500&lines=Building+Practical+Solutions+with+Code;Passionate+about+Learning+and+Improving;Let's+solve+real+world+problems)](https://git.io/typing-svg)
 
