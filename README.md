@@ -19,7 +19,7 @@ You can see more about me and my projects in my web https://danovax.tech/
 - 📍 Pereira, Colombia 🇨🇴.
 
 ---
-  ## 🛠️ Tech Stac
+  ## 🛠️ Tech Stack
 <div align="center">
 
 
