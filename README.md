@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About M
 
 Hi there! I'm **Daniel López**, a software developer passionate about solving real-world problems through technology.  
 I'm always eager to learn new tools and methodologies to improve code quality and efficiency.
