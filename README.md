@@ -14,7 +14,7 @@ Hi there! I'm **Daniel López**, a software developer passionate about solving r
 I'm always eager to learn new tools and methodologies to improve code quality and efficiency.
 You can see more about me and my projects in my web https://danovax.tech/
 
-- 💻 Backend enthusiast, but I enjoy exploring the frontend world too.
+- 💻 Frontend enthusiast, but I enjoy exploring the Backend world too.
 - 🚀 Passionate about writing clean and scalable code.
 - 📍 Pereira, Colombia 🇨🇴.
 
